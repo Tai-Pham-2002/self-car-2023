@@ -1,0 +1,6 @@
+path:'/home/tai/Documents/LLM'
+train : 'train'
+val : 'label'
+
+nc : 1
+name ['road']

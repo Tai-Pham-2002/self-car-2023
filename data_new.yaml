@@ -1,0 +1,6 @@
+path:  /home/tai/Documents/LLM/data_new/
+train: images/train
+val:   images/val
+test:  images/test
+nc: 5
+names:  ["no_turn_left", "turn_left", "no_turn_right", "turn_right", "go_straight_ahead"]
